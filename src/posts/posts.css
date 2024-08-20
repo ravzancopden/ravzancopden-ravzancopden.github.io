@@ -1,0 +1,33 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.post-container1,.post-container2{
+    width: 25rem;
+    border-radius: 1rem;
+    box-shadow: 0px 10px 8px #71C5E8;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    background-color: whitesmoke;
+    height: fit-content;
+}
+.post1-img, .post2-img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+.post1, .post2, .post1-description, .post2-description{
+    margin: 0.5rem 5%;
+}
+
+.link1, .link2{
+    text-align: center;
+    width:90%;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 0.5rem;
+}

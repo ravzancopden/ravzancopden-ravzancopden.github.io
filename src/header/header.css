@@ -1,0 +1,29 @@
+header{
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+a{
+    padding: 45px;
+    margin-right: 35px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: white;
+    text-decoration: none;
+    text-decoration-color: #71C5E8;
+}
+
+a:hover{
+    padding:15px;
+    margin-right: 65px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border-color: #71C5E8;
+    background-color: #71C5E8;
+    text-decoration: none;
+    text-decoration-color: white;
+
+}

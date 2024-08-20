@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: #71C5E8;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    position: static;
+    
+}
